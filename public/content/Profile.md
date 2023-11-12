@@ -2,18 +2,19 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Lanre. 
+- I am a software engineer.
+- Full Stack Engineer skilled in creating scalable, user-centric digital solutions, with expertise in both front-end and back-end technologies. 
 
 ## About
-Write your "About" section here.
+Lanre Adebayo is an adept Full Stack Engineer whose expertise lies in leveraging a broad range of technologies including Nest.js, AWS Lambda, React, Redux, JavaScript, Python, and Node.js. His experience encompasses developing scalable backend systems, creating intuitive front-end interfaces, and engineering full-stack solutions that drive user engagement and operational efficiency. 
+
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+Email
+- LinkedIn: https://www.linkedin.com/in/lanreadebayoweb/
+- GitHub: https://github.com/lanredadev 
+- Email: hello@lanreadebayo.com
 
 ## Logo
-- EB
+- LA

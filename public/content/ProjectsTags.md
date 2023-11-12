@@ -1,3 +1,3 @@
-Category 1
-Category 2
-Category 3
+Project 1
+Project 2
+Project 3
