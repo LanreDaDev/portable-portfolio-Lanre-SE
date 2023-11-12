@@ -63,7 +63,7 @@
 
 ## Olade
 - *Freelance Fullstack Engineer* | May'17 - Nov'19
-- ![logo512](../assets/olade.png)
+- ![logo512](../assets/oladehq_logo.jpeg)
 - Tags: Full Stack Engineer, Others
 - Badges:
   - JavaScript [blue] 
