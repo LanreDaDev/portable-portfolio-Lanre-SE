@@ -1,3 +1,3 @@
-Full Stack Engineer
-Frontend Engineer
+Full Stack 
+Frontend 
 Others
