@@ -4,9 +4,16 @@ import { ColorModeScript } from "@chakra-ui/react";
 import './index.css';
 import App from './App';
 import theme from "./theme";
+import ReactGA from 'react-ga';
 import reportWebVitals from './reportWebVitals';
 // 1. Import the extendTheme function
 import { ChakraProvider } from "@chakra-ui/react";
+
+// Initialize Google Analytics
+ReactGA.initialize('YOUR_TRACKING_ID');
+
+// Optional: Track page view
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
