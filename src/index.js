@@ -10,7 +10,7 @@ import reportWebVitals from './reportWebVitals';
 import { ChakraProvider } from "@chakra-ui/react";
 
 // Initialize Google Analytics
-ReactGA.initialize('YOUR_TRACKING_ID');
+ReactGA.initialize('G-GMR55W3EZH');
 
 // Optional: Track page view
 ReactGA.pageview(window.location.pathname + window.location.search);
